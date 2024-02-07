@@ -1,5 +1,5 @@
-# ReactPractice Repository<br>
-This repository serves as a practice for learning React.js by myself, watching the "React for Beginners (2024)" series hosted on the YouTube Channel Code Stoic.<br><br><br>
+# ReactPractice Repository
+<br>This repository serves as a practice for learning React.js by myself, watching the "React for Beginners (2024)" series hosted on the YouTube Channel Code Stoic.<br><br><br>
 
   
 # Contents<br>
