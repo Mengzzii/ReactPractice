@@ -6,6 +6,7 @@ This repository serves as a practice for learning React.js by myself, watching t
   
 # Contents
 <br>
+
 ## 1. React for Beginners 1 ~ 27: Basic React
 - Dive into the core concepts of React.js, including components, props, state management, and lifecycle methods.<br>
   
